@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @IbrazavR, a student at BMSTU on ballistics engineer
+- 👀 I’m interested in flight dynamics of flight vehicles, programming, boxing and humor...
+- 🌱 I’m currently learning C++ and Python
+- 📫 How to reach me: mr.gagash6268@mail.ru
+- ⚡ Fun fact: Before the 1st year at the university, I hated programming))
