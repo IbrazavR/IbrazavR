@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @IbrazavR, a student at BMSTU on ballistics engineer
+- 👋 Hi, buddy! I'm @IbrazavR, a student at Bauman Moscow State Technical University, studying to be a ballistics engineer
 - 👀 I’m interested in flight dynamics of flight vehicles, programming, boxing and humor...
 - 🌱 I’m currently learning C++ and Python
 - 📫 How to reach me: mr.gagash6268@mail.ru
